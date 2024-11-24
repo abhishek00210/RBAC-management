@@ -1,4 +1,4 @@
-# RBAC Managment
+# RBAC Management
 
 ## API Documentation
 
